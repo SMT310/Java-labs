@@ -1,3 +1,4 @@
+package calculate;
 public class ElectricBill {
     private double kwh;
 

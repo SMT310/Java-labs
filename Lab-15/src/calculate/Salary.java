@@ -1,3 +1,4 @@
+package calculate;
 public class Salary {
     private double grossSalary;
     private static final double TAX_RATE = 0.15;

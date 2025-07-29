@@ -1,3 +1,4 @@
+package calculate;
 public class ExpenseManager {
     private double totalIncome;
     private double totalExpense;

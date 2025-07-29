@@ -1,3 +1,4 @@
+package calculate;
 public class TaxiBill {
     private double km;
 
